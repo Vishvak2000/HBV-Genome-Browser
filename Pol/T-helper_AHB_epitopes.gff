@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region	Pol	1	845
+Pol	Geneious	TF_binding_site	98	112	.	.	.	Name=VGPLTVNEKRRLKLI%3B(DRB1*0301)
+Pol	Geneious	TF_binding_site	47	161	.	.	.	Name=RHYLHTLWKAGILYK%3B(DRB1*01/07/08/09/11/12/15)
+Pol	Geneious	TF_binding_site	347	401	.	.	.	Name=ESRLVVDFSQFSRGN%3B(DRB1*03/04)
+Pol	Geneious	TF_binding_site	414	428	.	.	.	Name=LQSLTNLLSSNLSWL%3B(DRB1*01/04/07/11/12/13/15)
+Pol	Geneious	TF_binding_site	422	436	.	.	.	Name=SSNLSWLSLDVSAAF%3B(DRB1*01/03/04/13)
+Pol	Geneious	TF_binding_site	503	517	.	.	.	Name=LHLYSHPIILGFRKI%3B(DRB1*01/04/11)
+Pol	Geneious	TF_binding_site	618	632	.	.	.	Name=KQCFRKLPVNRPIDW%3B(DRB1*01/04/07)
+Pol	Geneious	TF_binding_site	666	680	.	.	.	Name=KQAFTFSPTYKAFLC%3B(DRB1*01/04/07/08/09/11/13/15)
+Pol	Geneious	TF_binding_site	696	710	.	.	.	Name=LCQVFADATPTGWGL%3B(DRB1*03/04)
+Pol	Geneious	TF_binding_site	769	783	.	.	.	Name=AANWILRGTSFVYVP%3B(DRB1*01/07/08/09/13/15)
+

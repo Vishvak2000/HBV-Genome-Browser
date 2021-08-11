@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region   Pol 1 845
+Pol	.	mutation	428	428	.	.	.	Name=Lamivudine%20resistance%3ArtL80I%2FV
+Pol	.	mutation	428	428	.	.	.	Name=Telbivudine%20resistance%3ArtL80I%2FV
+Pol	.	mutation	477	477	.	.	.	Name=Celvudine%20resistance%3ArtL129M
+Pol	.	mutation	517	517	.	.	.	Name=Entecavir%20resistance%3ArtI169T
+Pol	.	mutation	521	521	.	.	.	Name=Lamivudine%20resistance%3ArtV173L
+Pol	.	mutation	521	521	.	.	.	Name=Celvudine%20resistance%3ArV173L
+Pol	.	mutation	528	528	.	.	.	Name=Lamivudine%20resistance%3ArtL180M
+Pol	.	mutation	528	528	.	.	.	Name=Entecavir%20resistance%3ArtL180M
+Pol	.	mutation	529	529	.	.	.	Name=Adefovir%20resistance%3ArtA181T%2FV
+Pol	.	mutation	533	533	.	.	.	Name=Entecavir%20resistance%3ArtS184G
+Pol	.	mutation	542	542	.	.	.	Name=Tenofovir%20resistance%3ArtL129M
+Pol	.	mutation	550	550	.	.	.	Name=Entecavir%20resistance%3ArtS202I
+Pol	.	mutation	552	552	.	.	.	Name=Lamivudine%20resistance%3ArtM204I%2FV
+Pol	.	mutation	552	552	.	.	.	Name=Entecavir%20resistance%3ArtM204I%2FV
+Pol	.	mutation	552	552	.	.	.	Name=Telbivudine%20resistance%3ArtM204I%2FV
+Pol	.	mutation	552	552	.	.	.	Name=Celvudine%20resistance%3ArtM204I%2FV
+Pol	.	mutation	577	577	.	.	.	Name=Celvudine%20resistance%3ArtL299V
+Pol	.	mutation	584	584	.	.	.	Name=Adefovir%20resistance%3ArtN236T
+Pol	.	mutation	598	598	.	.	.	Name=Entecavir%20resistance%3ArtM250V

@@ -1,0 +1,10 @@
+##gff-version 3
+##sequence-region	Pol	1	845
+Pol	Geneious	TF_binding_site	261	269	.	.	.	Name=GSGPTHNCA%3B(A*1101)
+Pol	Geneious	TF_binding_site	389	397	.	.	.	Name=VVDFSQFSR%3B(A*33)
+Pol	Geneious	TF_binding_site	453	461	.	.	.	Name=GLSRYVARL%3B(A*02)
+Pol	Geneious	TF_binding_site	466	474	.	.	.	Name=RIINNQHRT%3B(A*0201)
+Pol	Geneious	TF_binding_site	549	557	.	.	.	Name=YMDDVVLGA%3B(A*02)
+Pol	Geneious	TF_binding_site	573	581	.	.	.	Name=FLLSLGIHL%3B(A*02)
+Pol	Geneious	TF_binding_site	671	679	.	.	.	Name=PTYKAFLSK%3B(A*1101)
+Pol	Geneious	TF_binding_site	756	764	.	.	.	Name=KYTSFPWLL%3B(A*24)
