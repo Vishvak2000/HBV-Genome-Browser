@@ -1,0 +1,18 @@
+##gff-version 3
+##sequence-region	pre-S1_pre-S2_S	1	400
+pre-S1_pre-S2_S	Geneious	binding site	367	375	.	.	.	Name=SVIWMMWYW%3B(B*5801)
+pre-S1_pre-S2_S	Geneious	binding site	182	191	.	.	.	Name=FLGPLLVLQA%3B(C*0801)
+pre-S1_pre-S2_S	Geneious	binding site	194	202	.	.	.	Name=FLLTRILTI%3B(A*0201%2C A*0202%2C A*0203%2C A*0206)
+pre-S1_pre-S2_S	Geneious	binding site	324	332	.	.	.	Name=IPIPSSWAF%3B(B*0702%2C B*3501%2C B*51%2C B*5301)
+pre-S1_pre-S2_S	Geneious	binding site	346	354	.	.	.	Name=WLSLLVPFV%3B(A*0201%2C A*0202%2C A*0203%2C A*0206)
+pre-S1_pre-S2_S	Geneious	binding site	371	380	.	.	.	Name=MMWYWGPSLY%3B(A*03)
+pre-S1_pre-S2_S	Geneious	binding site	163	172	.	.	.	Name=SILSKIGDPV%3B(A*02)
+pre-S1_pre-S2_S	Geneious	binding site	188	196	.	.	.	Name=VLQAGFFLL%3B(A*02)
+pre-S1_pre-S2_S	Geneious	binding site	194	202	.	.	.	Name=LLTRILTI%3B(A*02)
+pre-S1_pre-S2_S	Geneious	binding site	215	223	.	.	.	Name=FLGGTPVCL%3B(A*02)
+pre-S1_pre-S2_S	Geneious	binding site	262	270	.	.	.	Name=LLCLIFLLV%3B(A*02)
+pre-S1_pre-S2_S	Geneious	binding site	271	280	.	.	.	Name=LLDYQGMLPV%3B(A*03)
+pre-S1_pre-S2_S	Geneious	binding site	324	332	.	.	.	Name=IPIPSSWAF%3B(A*02)
+pre-S1_pre-S2_S	Geneious	binding site	346	358	.	.	.	Name=WLSLLVPFV%3B(A*03)
+pre-S1_pre-S2_S	Geneious	binding site	359	368	.	.	.	Name=GLSPTVWLSV%3B(A*04)
+pre-S1_pre-S2_S	Geneious	binding site	381	390	.	.	.	Name=SIVSPFIPLL%3B(A*05)

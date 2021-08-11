@@ -1,0 +1,11 @@
+##gff-version 3
+##sequence-region   pre-S1_pre-S2_S 1 400
+pre-S1_pre-S2_S	.	myr	2	2	.	.	.	Name=Myristoylation%20site
+pre-S1_pre-S2_S	.	acetylation	120	120	.	.	.	Name=N-terminal%20Acetylation%28MHBs%29
+pre-S1_pre-S2_S	.	glycosylation	156	156	.	.	.	Name=O-linked%20glycosylation%28H-B%29
+pre-S1_pre-S2_S	.	tmd	182	197	.	.	.	Name=TM1
+pre-S1_pre-S2_S	.	tmd	264	272	.	.	.	Name=TM2
+pre-S1_pre-S2_S	.	region of interest	273	352	.	.	.	Name=Antigenic%20Loop
+pre-S1_pre-S2_S	.	glycosylation site	320	320	.	.	.	Name=N-linked%20glycosylation
+pre-S1_pre-S2_S	.	tmd	353	366	.	.	.	Name=TM3
+pre-S1_pre-S2_S	.	tmd	376	398	.	.	.	Name=TM4

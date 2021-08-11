@@ -1,0 +1,29 @@
+{
+  "assemblies": [
+    {
+      "name": "S.fasta.gz",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "S.fasta.gz-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "S.fasta.gz"
+          },
+          "faiLocation": {
+            "uri": "S.fasta.gz.fai"
+          }
+        }
+      },
+      "aliases": [
+        "S"
+      ]
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": []
+}
