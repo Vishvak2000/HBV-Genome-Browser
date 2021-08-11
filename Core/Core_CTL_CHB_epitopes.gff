@@ -1,0 +1,15 @@
+##gff-version 3
+##source-version geneious 2021.1.1
+##sequence-region	Core	1	185
+Core	Geneious	binding site	18	27	.	+	.	Name=FLPSDFFPSI %3B(A*02)
+Core	Geneious	binding site	18	27	.	+	.	Name=FLPSDFFPSV%3B(A*02)
+Core	Geneious	binding site	19	27	.	+	.	Name=LPSDFFPSV%3B(B*51)
+Core	Geneious	binding site	23	31	.	+	.	Name=FFPSIRDLL%3B(A*24)
+Core	Geneious	binding site	76	85	.	+	.	Name=LEDPASREL%3B(B*4001)
+Core	Geneious	binding site	104	112	.	+	.	Name=HISCLTFGR%3B(A*33)
+Core	Geneious	binding site	115	124	.	+	.	Name=VLEYLVSFGV%3B(A*02)
+Core	Geneious	binding site	117	125	.	+	.	Name=EYLVSFGVW%3B(A*24)
+Core	Geneious	binding site	119	127	.	+	.	Name=LVSFGVWIR%3B(A*33)
+Core	Geneious	binding site	139	148	.	+	.	Name=ILSTLPETTV%3B(A*02)
+Core	Geneious	binding site	141	151	.	.	.	Name=STLPETTVVRR%3B(A*6801)
+Core	Geneious	binding site	146	151	.	.	.	Name=TTVVRPRGR%3B(A*1101)

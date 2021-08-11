@@ -1,0 +1,9 @@
+##gff-version 3
+##sequence-region	Core	1	185
+Core	Geneious	TF_binding_site	1	20	.	.	.	Name=MDIDPYKEFGATVELLSFLP%3B(DR)
+Core	Geneious	TF_binding_site	28	47	.	.	.	Name=RDLLDTASALYREALESPEH%3B(DR7/DP0402)
+Core	Geneious	TF_binding_site	50	69	.	.	.	Name=PHHTALRQAILCWGELMTLA%3B()
+Core	Geneious	TF_binding_site	111	125	.	.	.	Name=GRETVIEYLVSFGVW%3B(DR1)
+Core	Geneious	TF_binding_site	117	131	.	.	.	Name=EYLVSFGVWIRTPPA%3B(DRw52/DR6)
+Core	Geneious	TF_binding_site	120	139	.	.	.	Name=VSFGVWIRTPPAYRPPNAP%3B(DR1)
+Core	Geneious	TF_binding_site	147	156	.	.	.	Name=TVVRRRGRSP%3B(DR13)

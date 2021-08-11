@@ -1,0 +1,10 @@
+##gff-version 3
+##sequence-region	Core	1	185
+Core	Geneious	binding site	18	27	.	.	.	Name=FLPSDFFPSV%3B(A*02)
+Core	Geneious	binding site	19	27	.	.	.	Name=LPSDFFPSV%3B(B*3501%2C B*51%2C B*5301%2C B*5401)
+Core	Geneious	binding site	19	27	.	.	.	Name=LPSDFFPSV%3B(B*07%2C B*51)
+Core	Geneious	binding site	117	125	.	.	.	Name=EYLVSFGVW%3B(A*2402)
+Core	Geneious	binding site	141	150	.	.	.	Name=STLPETTVVR%3B(A*11%2C A*6801)
+Core	Geneious	binding site	141	151	.	.	.	Name=STLPETTVVRR%3B(A*31%2C A*68%2CA*03)
+Core	Geneious	binding site	11	27	.	.	.	Name=ATVELLSFLPSDFFPSV%3B(A*02)
+Core	Geneious	binding site	107	115	.	.	.	Name=CLTFGRETV%3B(A*02)
