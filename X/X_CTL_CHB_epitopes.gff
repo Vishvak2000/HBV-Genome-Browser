@@ -1,0 +1,9 @@
+##gff-version 3
+##sequence-region	X	1	154
+X	Geneious	TF_binding_site	44	53	.	.	.	Name=VVPTDHGAHL%3B(A*0201)
+X	Geneious	TF_binding_site	52	60	.	.	.	Name=HLSLRGLFV%3B(A*02)
+X	Geneious	TF_binding_site	92	100	.	.	.	Name=VLHKRTLGL%3B(A*02)
+X	Geneious	TF_binding_site	99	108	.	.	.	Name=GLSAMSTTDL%3B(A*02)
+X	Geneious	TF_binding_site	115	123	.	.	.	Name=CLFKDWEEL%3B(A*02)
+X	Geneious	TF_binding_site	133	141	.	.	.	Name=VLGGCRHKL%3B(A*02)
+X	Geneious	TF_binding_site	135	143	.	.	.	Name=GGCRHKLVC%3B(A*1101)
